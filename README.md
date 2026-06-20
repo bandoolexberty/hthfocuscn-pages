@@ -1,2 +1,14 @@
 # hthfocuscn-pages
-HTML page archive and documentation
+
+自动生成页面存放处
+
+该仓库用于页面文件整理，不针对单个页面做额外说明。
+
+## 文件存档
+
+- 页面文件由发布任务写入
+- README 作为仓库说明保留
+
+## 维护状态
+
+仓库会随发布任务更新，若页面不可访问请以 GitHub 文件为准核对。
